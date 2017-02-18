@@ -6556,8 +6556,8 @@
         </Extensions>
       </Lap>
       <Creator xsi:type="Device_t">
-        <Name>vívosmart HR</Name>
-        <UnitId>3920041011</UnitId>
+        <Name>my watch</Name>
+        <UnitId>0000000000</UnitId>
         <ProductID>2348</ProductID>
         <Version>
           <VersionMajor>3</VersionMajor>
@@ -6579,6 +6579,6 @@
       </Version>
     </Build>
     <LangID>en</LangID>
-    <PartNumber>006-D2449-00</PartNumber>
+    <PartNumber>999-A9999-99</PartNumber>
   </Author>
 </TrainingCenterDatabase>
