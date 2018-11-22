@@ -9,9 +9,6 @@ Create dictionary with xml data and store them in a json file
 Plot everything ..
 
 ---------------------------------------------
-
-Add functionality to convert xml to json.
-
-Create a juicy user interface.
-
-Provide the ability to save in sqllite db.
+#TODO Add functionality to convert xml to json.
+#TODO Create a juicy user interface.
+#TODO Provide the ability to save in sqllite db.
